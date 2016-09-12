@@ -1,0 +1,9 @@
+\\sit.inet\sit\home\Students\2011006416\MySettings\Desktop\Team Gen\team_Gen\team_Gen\bin\Debug\team_Gen.exe.config
+\\sit.inet\sit\home\Students\2011006416\MySettings\Desktop\Team Gen\team_Gen\team_Gen\bin\Debug\team_Gen.exe
+\\sit.inet\sit\home\Students\2011006416\MySettings\Desktop\Team Gen\team_Gen\team_Gen\bin\Debug\team_Gen.pdb
+\\sit.inet\sit\home\Students\2011006416\MySettings\Desktop\Team Gen\team_Gen\team_Gen\obj\Debug\team_Gen.csprojResolveAssemblyReference.cache
+\\sit.inet\sit\home\Students\2011006416\MySettings\Desktop\Team Gen\team_Gen\team_Gen\obj\Debug\team_Gen.Form1.resources
+\\sit.inet\sit\home\Students\2011006416\MySettings\Desktop\Team Gen\team_Gen\team_Gen\obj\Debug\team_Gen.Properties.Resources.resources
+\\sit.inet\sit\home\Students\2011006416\MySettings\Desktop\Team Gen\team_Gen\team_Gen\obj\Debug\team_Gen.csproj.GenerateResource.Cache
+\\sit.inet\sit\home\Students\2011006416\MySettings\Desktop\Team Gen\team_Gen\team_Gen\obj\Debug\team_Gen.exe
+\\sit.inet\sit\home\Students\2011006416\MySettings\Desktop\Team Gen\team_Gen\team_Gen\obj\Debug\team_Gen.pdb
